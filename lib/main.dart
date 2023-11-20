@@ -112,7 +112,7 @@ class HomePage extends StatelessWidget {
   Widget _buildServiceCategory(String categoryName) {
     return GestureDetector(
       onTap: () {
-        // Implement navigation to category-specific screen or services
+
       },
       child: Card(
         elevation: 3,
